@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+<<<<<<< HEAD
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
@@ -20,6 +21,10 @@ function App() {
         >
           Learn React
         </a>
+=======
+          Hello World! This is our team project.
+        </p>	
+>>>>>>> 242861e (added new project text)
       </header>
     </div>
   );
