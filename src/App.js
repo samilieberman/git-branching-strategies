@@ -8,6 +8,7 @@ function App() {
         <img src={gatorLogo} className="App-logo" alt="logo" />
         <p> Hello World! </p>
         <p> My name is Habana Perez and this is my project </p>
+
       </header>
     </div>
   );
